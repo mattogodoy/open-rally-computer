@@ -1,0 +1,55 @@
+# Travis.yml
+# Shamelessly stolen from: https://github.com/rlogiacco/MicroDebug/blob/master/.travis.yml
+# and from https://github.com/tzapu/WiFiManager/blob/master/.travis.yml via the blog post at:
+# https://tzapu.com/automate-arduino-ide-esp8266-build-testing-travisci/
+
+language: cpp
+
+sudo: required
+
+addons:
+    apt:
+        sources:
+            # - ubuntu-toolchain-r-test
+        packages:
+            # - gcc-4.8
+            # - g++-4.8
+
+before_install:
+  # Setup Test Environment
+  # - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-4.8 90
+  # - sudo update-alternatives --install /usr/bin/gcov gcov /usr/bin/gcov-4.8 90
+  
+  # Get travis-scripts
+  - git clone https://github.com/r89m/travis-scripts.git
+  - source $TRAVIS_BUILD_DIR/travis-scripts/arduino.sh
+
+  # Setup Arduino Environment
+  - setup_env
+  
+  # Install coveralls
+  # - pip install --user cpp-coveralls
+  
+install:
+  # Check versions
+  # - g++ --version
+  # - gcov --version
+      
+  # Install Libraries
+  - install_repo_as_library
+  
+script:
+  # Run tests
+  # - cd ${TRAVIS_BUILD_DIR}
+  # - make test
+  
+  # Upload code coverage report
+  # - coveralls --exclude tests/ --exclude examples/ --gcov-options '\-lp'
+  
+  # Check that examples compile
+  - build_examples
+  
+notifications:
+  email:
+    on_success: change
+    on_failure: change

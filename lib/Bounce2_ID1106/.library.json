@@ -1,0 +1,46 @@
+{
+    "name": "Bounce2", 
+    "keywords": [
+        "bounce", 
+        "signal", 
+        "input", 
+        "ouput"
+    ], 
+    "description": "Debouncing library for Arduino or Wiring", 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/thomasfredericks/Bounce2.git"
+    }, 
+    "version": "2.52", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam", 
+        "espressif32", 
+        "espressif8266", 
+        "intel_arc32", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "ststm32", 
+        "teensy", 
+        "timsp430"
+    ], 
+    "export": {
+        "exclude": [
+            "*.png", 
+            "*.zip"
+        ]
+    }, 
+    "authors": [
+        {
+            "email": null, 
+            "url": "https://github.com/thomasfredericks", 
+            "maintainer": false, 
+            "name": "Thomas O Fredericks"
+        }
+    ], 
+    "id": 1106
+}

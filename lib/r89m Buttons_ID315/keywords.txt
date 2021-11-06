@@ -1,0 +1,9 @@
+Button	KEYWORD1
+is	KEYWORD2
+isPressed	KEYWORD2
+onHold	KEYWORD2
+onHoldRepeat	KEYWORD2
+onPress	KEYWORD2
+onRelease	KEYWORD2
+update	KEYWORD2
+BasicButton	KEYWORD1

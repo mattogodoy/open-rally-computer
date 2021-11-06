@@ -1,0 +1,12 @@
+ESP32 Reserved GPIO’S
+Some GPIO’s cannot be used freely, as they are already assigned to module peripherals or have special functions during booting:
+
+GPIO0 pin is used as a bootstrapping pin, and should be low to enter UART download mode. Make sure it is not pulled low by a peripheral device during boot or the firmware will not start!
+
+GPIO2 pin is used as a bootstrapping pin, and should be low to enter UART download mode. Make sure it is not pulled high by a peripheral device during boot or you will not be able to flash a firmware to the module!
+
+GPIO06 through GPIO11 are reserved for the FLASH. You cannot use them at all!
+
+GPIO12 is used as a bootstrapping pin to select output voltage of an internal regulator which powers the flash chip (VDD_SDIO). This pin has an internal pulldown so if left unconnected it will read low at reset (selecting default 3.3V operation). Make sure it is not pulled high by a peripheral device during boot or the module might not be able to start!
+
+GPIO34-39 can only be set as input mode and do not have software pullup or pulldown functions

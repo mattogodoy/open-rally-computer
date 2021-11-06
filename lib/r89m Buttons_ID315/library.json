@@ -1,0 +1,12 @@
+{
+  "name": "r89m Buttons",
+  "keywords": "button",
+  "description": "Handle different types of buttons and button events easily (touch, capacitive, push)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r89m/Button.git"
+  },
+  "version": "2.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
