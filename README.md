@@ -23,6 +23,11 @@ Some of its features are:
 
 The main goal of this project is to achieve a widely used open-source device that can be improved over time by ourselves, the pilots behind the roadbook.
 
+You can read a detailed writeup of the project here:
+
+- [English version](https://matto.io/open-sourcing-the-baja-pro/)
+- [Spanish version](https://matto.io/liberando-el-codigo-del-baja-pro/)
+
 ## Schematics and PCB
 
 You can find all the necessary information for fabricating your own copy of the Open Rally Computer PCB in the [pcb](docs/pcb) and [schematics](docs/schematics) folders of this repository.
@@ -122,15 +127,6 @@ This is what this means:
 7. Any changes made to this code MUST be indicated on distribution.
 8. This software is provided without warranty.
 9. The software author or license can not be held liable for any damages inflicted by the software.
-
-## Acknowledgments
-
-For a detailed explanation of this project, please see the following links:
-
-- Post in my personal blog about why I open sourced this project
-  - [Spanish version](https://matto.io/liberando-el-codigo-del-baja-pro/)
-  - English version [coming soon]
-- [Podcast episode](https://bucleinfinito.pinecast.co/episode/8408ca93/115-liberando-el-c-digo-fuente-del-proyecto-m-s-importante-de-mi-vida) where I discuss the motivation for releasing this code (spanish language)
 
 ## Changelog
 
