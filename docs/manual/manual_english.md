@@ -146,7 +146,7 @@ In this screen, the remote control buttons fulfill the following functions:
 
 ## Settings
 
-This is the screen from which the **Baja Pro** is configured.
+This is the screen from where the **Open Rally Computer** is configured.
 
 ### Access the configuration menu
 
