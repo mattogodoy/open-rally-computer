@@ -150,7 +150,7 @@ This is the screen from where the **Open Rally Computer** is configured.
 
 ### Access the configuration menu
 
-To access the configuration menu, I am **stating at any screen other than the Odometer**, press and hold the **Select** button (rear button of controller) for a few seconds.
+To access the configuration menu, **while at any screen other than the Odometer**, press and hold the **Select** button (rear button of controller) for a few seconds.
 
 ### Navigate within settings
 
