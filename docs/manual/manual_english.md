@@ -239,7 +239,7 @@ The description of this functionality will be updated in this manual as soon as 
 
 ### Version
 
-It shows the serial number of your Baja Pro and the current version of the firmware installed in the device.
+It shows the serial number of your device and its current firmware version.
 
 ### Factory settings
 
