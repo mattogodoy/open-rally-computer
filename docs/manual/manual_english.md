@@ -103,7 +103,7 @@ In this bar you can see important information:
 
 The screen you will most likely see most of the time is the odometer.
 In it you can see:
-- **Total distance** in the upper left: Counts the distance traveled from the last total distance reset (from the configuration menu). This distance **does NOT** vary when landing. It can be considered as the total and real distance that you have traveled during a complete stage.
+- **Total distance** in the upper left: Counts the distance traveled from the last total distance reset (from the configuration menu). This distance **does NOT** vary when manually adjusting the partial distance using the buttons. It can be considered as the total and real distance that you have traveled during a complete stage.
 - **Partial distance** in the center: Counts the distance traveled since the last reset of partial distance.
 - **Heading** in the upper right: The heading is indicated in degrees, with 0º being North and 180º the South.
 
