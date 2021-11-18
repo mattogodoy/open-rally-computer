@@ -87,7 +87,7 @@ There are several screens that show useful information when navigating using a r
 
 ## Navigating between screens
 
-To change the screen, simply press the selection button on the remote (button rear)
+To change the screen, simply press the selection button on the remote (rear button)
 
 
 ### Status bar
