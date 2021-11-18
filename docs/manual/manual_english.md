@@ -56,7 +56,7 @@ The power cable has 3 smaller cables inside:
 3. **Brown**: _not used, do not connect_
 
 
-Contrary to common convention, **the black wire on the Baja Pro is positive**. This is one design decision that, although not standard, allows the **Baja Pro** to be powered with modules of distribution of electricity such as the _F2R Rallye Power Box_ or with power cables from other brands like the _ICO_.
+Contrary to common convention, **the black wire on the Open Rally Computer is positive**. This is one design decision that, although not standard, allows it to be powered with electricity distribution modules such as the _F2R Rallye Power Box_ or with power cables from other brands like the _ICO_.
 Although the **Baja Pro** has a reverse polarity protection mechanism, it is It is advisable to pay special attention to the colors of the cables and connect them correctly.
 
 ### Command
