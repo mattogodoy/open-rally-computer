@@ -228,7 +228,7 @@ This is useful in case you have to install the **Baja Pro** in an inverted posit
 
 ### GPS data
 
-Raw data from the GPS module among which you can find Latitude, Longitude, Height and plus.
+Raw data from the GPS module among which you can find Latitude, Longitude, Height and more.
 This could be useful in the event that you need to share your current location with somebody.
 
 
