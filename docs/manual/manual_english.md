@@ -76,7 +76,7 @@ The remote has 3 buttons with different functions based on the screen on which y
 
 ## Turning on/off
 
-The **Baja Pro** does not have an on / off switch, so the management of the power is left to the pilot.
+The **Open Rally Computer** does not have an on / off switch, so the management of the power is left to the pilot.
 For reasons inherent to the operation of the GPS system, if the **Baja Pro** has not been used for a long period of time, or if it is turned on in a location far from where it was last used, it may take a few minutes for the device to get a signal from GPS satellites.
 It is for this reason that it is advisable to always turn on the **Baja Pro** a few minutes before starting the tour.
 That said, the **Baja Pro** is capable of obtaining positioning information from both the constellation of **GPS** satellites as well as **Glonass** and **Galileo**, which allows the satellite reception wait time is quite low and the accuracy is higher than that of other devices.
