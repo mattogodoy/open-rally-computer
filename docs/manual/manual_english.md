@@ -57,7 +57,7 @@ The power cable has 3 smaller cables inside:
 
 
 Contrary to common convention, **the black wire on the Open Rally Computer is positive**. This is one design decision that, although not standard, allows it to be powered with electricity distribution modules such as the _F2R Rallye Power Box_ or with power cables from other brands like the _ICO_.
-Although the **Baja Pro** has a reverse polarity protection mechanism, it is It is advisable to pay special attention to the colors of the cables and connect them correctly.
+Although the **Open Rally Computer** has a reverse polarity protection mechanism, it is advisable to pay special attention to the colors of the cables and connect them correctly.
 
 ### Command
 
