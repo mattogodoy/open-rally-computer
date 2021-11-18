@@ -235,7 +235,7 @@ This could be useful in the event that you need to share your current location w
 ### Update firmware
 
 Update the **Baja Pro** firmware to the latest version.
-The description of this functionality will be updated in this manual as soon as a firmware update.
+The description of this functionality will be updated in this manual as soon as a firmware update is released.
 
 ### Version
 
