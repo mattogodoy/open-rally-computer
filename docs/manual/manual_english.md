@@ -186,7 +186,7 @@ The accuracy level can be set between:
 
 ### Units
 
-The **Baja Pro** unit system can be configured in:
+The units system can be configured as:
 - Metric (km / h, mm)
 - Imperial (mph / in)
 This option affects distance measurements. In the **Metric** system **kilometers** are used and in the
