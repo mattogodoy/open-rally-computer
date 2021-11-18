@@ -118,7 +118,7 @@ On this screen, the remote control buttons fulfill the following functions:
 On this screen you can see:
 - The speed at which you are currently traveling.
 - The average speed since the last total distance reset carried out from the configuration menu.
-**NOTE**: This average includes the time the motorcycle is not moving. This is especially useful to know your real average the regularity rallies.
+**NOTE**: This average includes the time the motorcycle is not moving. This is especially useful to know your real average for regularity rallies.
 - The maximum speed reached since the last reset carried out from the settings menu setting. This value is useful to avoid being penalized in rallies where speed maximum is limited.
 **Controls**
 On this screen, the remote control buttons fulfill the following functions:
