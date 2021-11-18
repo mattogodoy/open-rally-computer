@@ -144,7 +144,7 @@ In this screen, the remote control buttons fulfill the following functions:
 - **Down**: If QuickView functionality is enabled, displays the Odometer screen while holding down the button.
 - **Selection**: If pressed briefly, it switches to the next screen. Long press accesses the configuration screen.
 
-## Setting
+## Settings
 
 This is the screen from which the **Baja Pro** is configured.
 
