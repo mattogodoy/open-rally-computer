@@ -34,7 +34,7 @@
 
 ## Introduction
 
-This is the user manual for the **Baja Pro v4**. Here you will find everything you need to install and get the most out of your new Baja.
+This is the user manual for the **Open Rally Computer**. Here you will find everything you need to install and get the most out of your new tripmaster.
 If you have any suggestion for improvement to this manual, do not hesitate to reach us at <https://github.com/mattogodoy/open-rally-computer/>
 
 
