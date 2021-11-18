@@ -69,8 +69,8 @@ To install the remote in your handlebar you must:
 4. Place the control on the handlebar of the motorcycle **taking special care that the cable does not remain pressed between the handlebar and the controller**.
 5. Tighten the screws without exerting excessive pressure. The body of the controls is made of aluminum and excessive screw pressure could ruin the threads.
 The remote has 3 buttons with different functions based on the screen on which you find:
-- **Upper front**: Increase / Raise
-- **Lower front**: Reduce / Lower
+- **Upper front**: Increase / Go up
+- **Lower front**: Reduce / Go down
 - **Rear**: Change screen / Partial reset / Access menu / Select
 
 
