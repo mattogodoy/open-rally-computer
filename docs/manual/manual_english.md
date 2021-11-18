@@ -49,7 +49,7 @@ devices like the _ICO_.
 The **Open Rally Computer** runs on **12 volts**, so it can be connected directly to the battery of the motorcycle.
 The use of a 1A fuse is recommended but not essential, since this device it has a very low electricity consumption.
 **IMPORTANT**
-The **Baja Pro** power cable has 3 cables inside:
+The power cable has 3 smaller cables inside:
 
 1. **Black**: POSITIVE (+)
 2. **Blue**: NEGATIVE (-)
