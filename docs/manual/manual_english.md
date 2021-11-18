@@ -188,7 +188,7 @@ The accuracy level can be set between:
 
 The units system can be configured as:
 - Metric (km / h, mm)
-- Imperial (mph / in)
+- Imperial (mph, in)
 This option affects distance measurements. In the **Metric** system **kilometers** are used and in the
 **Imperial** system **miles** are used.
 **NOTE**: Changing this option resets all time, speed and distance values.
