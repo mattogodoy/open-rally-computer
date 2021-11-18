@@ -35,7 +35,7 @@
 ## Introduction
 
 This is the user manual for the **Baja Pro v4**. Here you will find everything you need to install and get the most out of your new Baja.
-If you have any suggestion for improvement to this manual, do not hesitate to write to baja@matto.io
+If you have any suggestion for improvement to this manual, do not hesitate to reach us at <https://github.com/mattogodoy/open-rally-computer/>
 
 
 ## Installation
