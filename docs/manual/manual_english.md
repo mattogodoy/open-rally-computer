@@ -154,7 +154,7 @@ To access the configuration menu, **while at any screen other than the Odometer*
 
 ### Navigate within settings
 
-To select options within the setup menu using the knob:
+To select options within the setup menu using the remote:
 - **Up**: Upper front button
 - **Lower**: Lower front button
 - **Select**: Back button
