@@ -173,7 +173,7 @@ Use this option before starting each stage of a rally. This resets:
 
 ### Language
 
-The **Baja Pro** can be configured in the following languages:
+The **Open Rally Computer** can be configured in the following languages:
 - Spanish
 - English
 Select the one that best suits your needs.
