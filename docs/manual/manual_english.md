@@ -109,7 +109,7 @@ In it you can see:
 
 **Controls**
 On this screen, the remote control buttons fulfill the following functions:
-- **Up**: Recalculates partial distance up (increases). If the precision of the distance is set to 1 decimal, adds 100 meters. If it is set to 2 decimal places, add 10 meters. Keeping the button pressed will quickly increase to do changes of great distances.
+- **Up**: Increases partial distance. If the precision of the distance is set to 1 decimal, adds 100 meters. If it is set to 2 decimal places, it adds 10 meters. Keeping the button pressed will quickly increase to do changes of great distances.
 - **Down**: Recall partial distance down (reduce). If the distance accuracy is set to 1 decimal, subtract 100 meters. If it is set to 2 decimal places, subtract 10 meters. Keeping the button pressed will quickly zoom out to make changes of great distances.
 - **Selection**: If pressed briefly, it switches to the next screen. If it stays pressed resets the partial distance to 0. This **DOES NOT** affect the total distance.
 
