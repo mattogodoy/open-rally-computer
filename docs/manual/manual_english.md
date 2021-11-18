@@ -7,7 +7,7 @@
 - Installation
    - Power
    - Command
-- Switched on
+- Turning on/off
 - Screens
 - Navigation between screens
    - Status bar
