@@ -129,7 +129,7 @@ On this screen, the remote control buttons fulfill the following functions:
 
 In this screen you can see the time elapsed since the last total distance reset performed from the settings menu, including the time the motorcycle has been stopped. This is especially useful for regularity rallies.
 **Controls**
-On this screen, the remote control buttons fulfill the following functions:
+In this screen, the remote control buttons fulfill the following functions:
 - **Up**: If the QuickView functionality is enabled, displays the Odometer screen while holding down the button.
 - **Down**: If QuickView functionality is enabled, displays the Odometer screen while holding down the button.
 - **Selection**: If pressed briefly, it switches to the next screen. If it stays pressed it accesses the configuration screen.
