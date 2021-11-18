@@ -83,7 +83,7 @@ That said, the **Open Rally Computer** is capable of obtaining positioning infor
 
 ## Screens
 
-The Baja Pro has several screens that show useful information when navigating using a roadbook. The distribution of information within the screens and the way in which that the data are grouped is designed to facilitate the pilot reading the data simply sight and with minimal effort.
+There are several screens that show useful information when navigating using a roadbook. The distribution of information within the screens and the way in which that the data are grouped is designed to facilitate the pilot reading the data simply sight and with minimal effort.
 
 ## Navigating between screens
 
