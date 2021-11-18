@@ -212,7 +212,7 @@ This is especially useful for sections where you need to pay special attention t
 ### Invert Screen
 
 Allows you to invert the screen image 180º.
-This is useful in case you have to install the **Baja Pro** in an inverted position.
+This is useful in case you have to install the **Open Rally Computer** in an inverted position.
 
 ### GPS data
 
