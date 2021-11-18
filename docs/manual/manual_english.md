@@ -123,12 +123,8 @@ On this screen you can see:
 **Controls**
 On this screen, the remote control buttons fulfill the following functions:
 - **Up**: If the QuickView functionality is enabled, displays the Odometer screen while holding down the button.
-
-
-`` ''
-- Bottom: If the QuickView functionality is enabled, displays the Odometer screen while holding down the button.
-- Selection: Short press switches to next screen. If it stays pressed it accesses the configuration screen.
-`` ''
+- **Down**: If the QuickView functionality is enabled, displays the Odometer screen while holding down the button.
+- **Selection**: Short press switches to next screen. Long press accesses the configuration screen.
 ### Travel time
 
 On this screen you can see the time elapsed since the last reset performed since the settings menu, including the time the motorcycle has been stopped. This is especially useful for regularity rallies.
