@@ -243,4 +243,4 @@ It shows the serial number of your Baja Pro and the current version of the firmw
 
 ### Factory settings
 
-Restores all the **Baja Pro** settings and settings to their factory state.
+Restores the **Open Rally Computer** values and settings to their factory state.
