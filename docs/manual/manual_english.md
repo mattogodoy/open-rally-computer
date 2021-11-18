@@ -96,7 +96,7 @@ At the top of all screens (except for the configuration screens) there is a bar 
 
 In this bar you can see some useful information:
 - In the left corner you can see a disc. If the disc is spinning it means that the GPS module is searching for satellites to get your location. Once you have obtained a reliable location, the disk icon will change to bars indicating the quality of the sign.
-- In the center is the current time. The hour values ​​are obtained from the module GPS, so it has great precision. This implies that until there is no GPS signal, the time it is not correct. **IMPORTANT:** Remember to set the time zone of the place where you you find (_see time zone configuration section_).
+- In the center is the current time. The time values for the clock ​​are obtained from the GPS module, so it has great precision. This implies that until there is no GPS signal, the time will not be correct. **IMPORTANT:** Remember to set the time zone of the place where you are (_see time zone configuration section_).
 - In the right corner you can see the number of satellites of which the GPS module receives signal. The minimum required to obtain a valid location is **4 satellites**, although in this case more is better.
 
 ### Odometer
