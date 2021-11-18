@@ -205,9 +205,8 @@ The range of values ​​is from **0** (light off) to **10** (maximum intensity
 
 ### Quickview
 
-This functionality allows you to quickly and temporarily return to the home screen.
-**Odometer** when you are on any other screen.
-If this option is activated, whenever you are on a screen other than **Odometer**, at holding down the upper or lower button on the remote will temporarily display the **Odometer** display. Releasing the button on the controller will return to the screen where you you found previously.
+This functionality allows you to quickly and temporarily see the **Odometer** screen when you are on any other screen.
+If this option is activated, whenever you are on a screen other than **Odometer**, holding down the upper or lower button on the remote will temporarily switch to the **Odometer** display. Releasing the button on the controller will return to the screen you were previously.
 This is especially useful for sections where you need to pay special attention to the **Heading** or **Speed ​​**, but from time to time you need to quickly see the distance traveled.
 
 ### Invert Screen
