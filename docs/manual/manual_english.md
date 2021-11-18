@@ -40,7 +40,7 @@ If you have any suggestion for improvement to this manual, do not hesitate to re
 
 ## Installation
 
-The **Baja Pro** allows a simple installation thanks to the fact that it works only with GPS, so it is not necessary to install magnetic wheel sensors.
+The **Open Rally Computer** allows a simple installation thanks to the fact that it works only with GPS, so it is not necessary to install magnetic wheel sensors.
 The **Baja Pro** clamping screws are **5mm** and have a **37mm** gap between them, which allows it to be installed without problems on supports intended for other
 devices like the _ICO_.
 
