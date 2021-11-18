@@ -61,7 +61,7 @@ Although the **Open Rally Computer** has a reverse polarity protection mechanism
 
 ### Command
 
-To install the remote included with the **Baja Pro**, you must:
+To install the remote in your handlebar you must:
 
 1. Remove the Allen screws that keep it closed.
 2. Carefully open the two pieces that make up the body of the control (CAUTION, both pieces will be joined by a pair of cables).
