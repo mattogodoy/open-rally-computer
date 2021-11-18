@@ -1,4 +1,4 @@
-# BAJA PRO
+# Open Rally Computer
 
 ## User manual
 
