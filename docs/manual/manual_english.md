@@ -139,7 +139,7 @@ In this screen, the remote control buttons fulfill the following functions:
 Indicates the current heading in degrees, being 0º North and 180º South.
 **NOTE**: Heading is calculated by drawing vectors between GPS location points, so this value is not valid if the motorcycle is not moving.
 **Controls**
-On this screen, the remote control buttons fulfill the following functions:
+In this screen, the remote control buttons fulfill the following functions:
 - **Up**: If the QuickView functionality is enabled, displays the Odometer screen while holding down the button.
 - **Down**: If QuickView functionality is enabled, displays the Odometer screen while holding down the button.
 - **Selection**: If pressed briefly, it switches to the next screen. If it stays pressed it accesses the configuration screen.
