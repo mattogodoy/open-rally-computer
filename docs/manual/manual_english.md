@@ -74,7 +74,7 @@ The remote has 3 buttons with different functions based on the screen on which y
 - **Rear**: Change screen / Partial reset / Access menu / Select
 
 
-## Switched on
+## Turning on/off
 
 The **Baja Pro** does not have an on / off switch, so the management of the power is left to the pilot.
 For reasons inherent to the operation of the GPS system, if the **Baja Pro** has not been used for a long period of time, or if it is turned on in a location far from where it was last used, it may take a few minutes for the device to get a signal from GPS satellites.
