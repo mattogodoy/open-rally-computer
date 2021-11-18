@@ -4,7 +4,6 @@
 
 
 - Introduction
-- Box contents
 - Installation
    - Power
    - Command
