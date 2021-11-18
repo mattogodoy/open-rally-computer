@@ -180,7 +180,7 @@ Select the one that best suits your needs.
 
 ### Accuracy
 
-The accuracy level of the **Baja Pro** can be set between:
+The accuracy level can be set between:
 - **One decimal**: Distances show increments every 100 meters. When manually adjusting, it will add or subtract 100 meters to the partial distance.
 - **Two decimal places**: Distances show increments every 10 meters. Upon landing, will add or subtract 10 meters to the partial distance.
 
