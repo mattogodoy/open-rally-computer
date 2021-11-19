@@ -107,7 +107,7 @@ See also the list of [contributors](https://github.com/mattogodoy/open-rally-com
 There are a few things I'd like to do in order to improve this project and its repository:
 
 - [x] Build, upload and tag Version 1.0.0 binary as a release
-- [ ] Translate user manual to english
+- [x] Translate user manual to english
 - [ ] Port the PCB files to KiCad
 - [ ] Create proper documentation in GitHub Wiki
 - [ ] Create Continuous Integration using GitHub Actions
