@@ -132,3 +132,7 @@ This is what this means:
 
 - **1.0.0**: Initial version
   - The complete project was open sourced, including source code, bill of materials, PCB desings and user manual.
+
+## Contributors
+
+- [turtle3333](https://github.com/turtle3333): User manual translation
