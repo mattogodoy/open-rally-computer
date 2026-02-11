@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BajaPro")(type "KiCad")(uri "${KIPRJMOD}/BajaPro.kicad_sym")(options "")(descr ""))
+)

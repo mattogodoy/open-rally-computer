@@ -2,4 +2,43 @@
 .pioenvs
 .piolibdeps
 .vscode
-.DS_Store
+
+*.stl
+*.svg 
+
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+# Format documentation: http://kicad-pcb.org/help/file-formats/
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+*-rescue.lib
+*-save.pro
+*-save.kicad_pcb
+*.sch-bak
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+
+fp-info-cache
+
+*-backups/
+
+_autosave-*
+?auto_saved_files#
