@@ -1,0 +1,25 @@
+"","Sourced","Placed","References","Value","Footprint","Manufacturer Part","Quantity"
+1,"","","C1, C2","2.2uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","C1206C225K5RECAUTO7210",2
+2,"","","C5, C6","10uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","CL32A106KBJNNNE",2
+3,"","","C3","0.33uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","C1206C334K1RECAUTO7210",1
+4,"","","C4","0.1uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","C1206C104K5RACAUTO7210",1
+5,"","","C7","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C0805C104M5RACTU",1
+6,"","","C8","47pF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","C1206C470K5GACAUTO",1
+7,"","","C9","47uF","C_1210_3225Metric_Pad1.33x2.70mm_HandSolder","GRM32ER61C476KE15L",1
+8,"","","R3, R4","2.4k","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","RG3216P-2401-D-T5",2
+9,"","","R5, R6","10k","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","RG3216P-1002-D-T5",2
+10,"","","R1","10M","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","MCA1206MD1005BP500",1
+11,"","","R2","1k","R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","RN73R2BTTD1001F50",1
+12,"","","R7","100k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","CRCW0604100KFKED",1
+13,"","","R8","22k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","RC0603FR-0722KL",1
+14,"","","L1","10uH","L_Bourns_SRP5030T","  SRP5030T-5R6M",1
+15,"","","D1","PU3BFSH","D_SOD-128","PU3BFSH",1
+16,"","","U1","FM24CL04B-GTR_C365762","SOIC-8_3.9x4.9mm_P1.27mm","FM24CL04B-GTR",1
+17,"","","U2","TPS54302","SOT-23-6","TPS54302DDCR",1
+18,"","","U4","ESP32-WROOM-32","ESP32-WROOM-32","ESP32-WROOM-32",1
+19,"","","GPS1","uBlox Neo 6M breakout board","GY-NEO6MV2","GY-NEO6MV2",1
+20,"","","LCD1","ERC12864-655 128x64 LCD Display","ERC12864-655","ERC12864-655",1
+21,"","","J1","NTC 10K±1% 3950","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","ABNTC-0805-103J-3950F-T",1
+22,"","","P1","Remote","JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal","S4B-XH-A",1
+23,"","","P2","Power","JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal","S2B-XH-A",1
+24,"","","P4","Flash","PinHeader_1x06_P2.54mm_Vertical","Pin Header 2.54",1
